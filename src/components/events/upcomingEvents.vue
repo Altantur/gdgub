@@ -184,11 +184,11 @@ export default {
         }
     },
     created(){
-        fetch('https://cors-anywhere.herokuapp.com/https://api.meetup.com/'+MeetupAPI.urlname+'/events?key='+MeetupAPI.apiKey).then(data=>data.json()).then(res=>{
+        fetch('https://cors-anywhere.herokuapp.com/https://api.meetup.com/2/events?group_urlname='+MeetupAPI.urlname+'&sign=true&photo-host=public&page=20').then(data=>data.json()).then(res=>{
             if(res.length>0){
                 this.showLoader = false
                 this.showData = true
-                this.eventsData = res
+                this.eventsData = res.results
             }else{
                 this.showLoader = false
                 this.notFoundUpcomingEventFlag = true

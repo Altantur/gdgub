@@ -5,14 +5,14 @@
         "img":"gdglogo.png"
     },
     {
-        "name":"WomenTechmakers",
-        "link":"https://www.womentechmakers.com/",
-        "img":"wtm.png"
+        "name":"Nest Academy",
+        "link":"https://www.nestacademy.mn/",
+        "img":"nest.png"
     },
     {
-        "name":"GDG[x]",
-        "link":"https://github.com/gdg-x",
-        "img":"gdg-x.svg"
+        "name":"ITZone",
+        "link":"https://www.itzone.mn/",
+        "img":"itzone.png"
     }
 
 ]
