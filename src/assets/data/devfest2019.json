@@ -1,26 +1,7 @@
 {
     "SponsorFormUrl": "https:google.com",
-    "EntryPageUrl": "https://www.meetup.com/GDG-Ulaanbaatar/events/266194881/",
+    "EntryPageUrl": "https://airtable.com/shrY08YXbephfb8Yl",
     "cdsLogoUrl": "https://storage.googleapis.com/gdgtokyo_img/devfest19/misc/cds2019",
-    "Partners": {
-        "Cosponsorship" : {
-            "designation": "協賛",
-            "groups": [{
-                "name": "国立大学法人電気通信大学",
-                "logo": "https://storage.googleapis.com/gdgtokyo_img/devfest19/sponsor/uec",
-                "link": "https://www.uec.ac.jp/"
-            }]
-        },
-        "ObjectivePartner" : {
-            "designation" : "",
-            "groups" : [{
-                "name": "Peatix Japan株式会社",
-                "title": "メディアパートナー",
-                "logo": "https://storage.googleapis.com/gdgtokyo_img/devfest19/sponsor/peatix",
-                "link": "https://peatix.com/"
-            }]
-        }
-    },
     "Sponsors": [
         {
             "name": "Google",
