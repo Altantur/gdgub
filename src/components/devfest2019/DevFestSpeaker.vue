@@ -97,7 +97,7 @@
     <!-- title -->
     <v-layout wrap align-center justify-center row fill-height class="my-3">
       <v-flex xs12 sm7 md7 lg7 class="pa-2 text-xs-center">
-        <p class="google-font display-2">Special Guests</p>
+        <p class="google-font display-2">Session Speakers(Onsite)</p>
       </v-flex>
     </v-layout>
     <!-- content -->
@@ -169,7 +169,7 @@
     <!-- title -->
     <v-layout wrap align-center justify-center row fill-height class="my-3">
       <v-flex xs12 sm7 md7 lg7 class="pa-2 text-xs-center">
-        <p class="google-font display-2">Sessions (五十音順)</p>
+        <p class="google-font display-2">Session Speakers(Offsite)</p>
       </v-flex>
     </v-layout>
     <!-- contents -->

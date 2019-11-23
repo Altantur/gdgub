@@ -38,8 +38,8 @@
         <div class="text-xs-center ma-1 pa-1 my-0">
           <a :href="item.link" target="_blank">
           <v-img
-            :src="getStorageUrl(item.logo)"
-            :lazy-src="getStorageUrl(item.logo)"
+            :src="item.logo"
+            :lazy-src="item.logo"
             :alt="item.name"
           >
             <v-layout slot="placeholder" fill-height align-center justify-center ma-0>
@@ -50,7 +50,7 @@
         </div>
       </v-flex>
     </v-layout>
-    <!-- Goldスポンサー -->
+    <!-- Gold -->
     <v-layout wrap align-center justify-center row fill-height class="my-0">
       <v-flex xs12 sm6 md6 lg6 class="pt-5 text-xs-center">
         <p class="google-font display-1">Gold</p>
@@ -67,8 +67,8 @@
         <div class="text-xs-center ma-1 pa-1 my-0">
           <a :href="item.link" target="_blank">
           <v-img
-            :src="getStorageUrl(item.logo)"
-            :lazy-src="getStorageUrl(item.logo)"
+            :src="item.logo"
+            :lazy-src="item.logo"
             :alt="item.name"
           >
             <v-layout slot="placeholder" fill-height align-center justify-center ma-0>
@@ -79,6 +79,36 @@
         </div>
       </v-flex>
     </v-layout>
+    <!-- Media -->
+    <v-layout wrap align-center justify-center row fill-height class="my-0">
+      <v-flex xs12 sm6 md6 lg6 class="pt-5 text-xs-center">
+        <p class="google-font display-1">Media</p>
+      </v-flex>
+    </v-layout>
+    <v-layout wrap align-center justify-center row fill-height class="my-3">
+      <v-flex
+        xs10 sm7 md5 lg5
+        v-for="(item, i) in silverSponsors"
+        :key="i"
+        class="text-xs-center"
+        style="text-align:center"
+      >
+        <div class="text-xs-center ma-1 pa-1 my-0">
+          <a :href="item.link" target="_blank">
+          <v-img
+            :src="item.logo"
+            :lazy-src="item.logo"
+            :alt="item.name"
+          >
+            <v-layout slot="placeholder" fill-height align-center justify-center ma-0>
+              <v-progress-circular indeterminate color="grey lighten-5"></v-progress-circular>
+            </v-layout>
+          </v-img>
+          </a>
+        </div>
+      </v-flex>
+    </v-layout>
+
     
   </v-container>
 </template>
@@ -105,7 +135,7 @@ export default {
     },
     silverSponsors: function() {
       return this.sponsors.filter(item => {
-        return item.designation == 'silver';
+        return item.designation == 'media';
       }, this);
     },
   },
