@@ -94,20 +94,36 @@
         ],
         "guests": [
             {
-                "name": "Katie Hockman",
-                "position": "Senior Software Engineer",
-                "profileImage": "https://storage.googleapis.com/gdgtokyo_img/devfest19/speaker/Katie_Hockman",
-                "profile": "Katie Hockman works on the Go team in New York City, where she led the team that built the Go module mirror and checksum database. She's been at Google for 4 years, previously working on an accessibility team with the goal of making Google the best place to work for people with disabilities.",
+                "name": "Золзаяа Ганбагана",
+                "position": "Senior Information Security Analyst at Golomt Bank",
+                "profileImage": "https://storage.googleapis.com/gdgtokyo_img/devfest19/speaker/anonymous_1",
+                "profile": "Experienced Administrator skilled in Network Administration, LaTeX, Linux System Administration, Adobe Photoshop, and Cisco Systems Products. Strong information technology professional graduated from Mongolian University of Science and Technology - Computer Science Management School.",
                 "twitter": "https://twitter.com/katie_hockman",
-                "englishName": ""
+                "englishName": "Ganbagana Zolzaya"
             },
             {
-                "name": "Coming soon",
-                "position": "Special Guest",
+                "name": "Баттөмөр Билэгт",
+                "position": "Lead Developer",
                 "profileImage": "https://storage.googleapis.com/gdgtokyo_img/devfest19/speaker/anonymous_1",
-                "profile": "Coming soon...",
+                "profile": "Bilegt Battumur is our lead information architect and back-end engineer. He is a highly experienced full-stack developer with a strong passion for planning and implementing efficient data-rich web applications. His problem-solving mindset and his background in microservices-based systems, cloud services, DevOps and front-end business logic make him an integral part of our team. His past experience includes a role as one of a small team of core developers at NOM (formerly No Ordinary Media), where he worked on coding and developing the platform for contextual targeting of videos on YouTube, branded video content distribution, and custom content targeting on YouTube using data analytics and machine learning to deliver better performance. It's a testament to Billy's contribution that NOM has recently won ThinkLA's Start-Up of the Year Award for innovation. We're sure Billy will continue to help us push boundaries with our vision for the MangoB2B platform! High profile clients and brands Billy has worked with included Toyota, Harley Davidson, Western Union, State Farm, Soylent, New Balance, Callaway, and Blizzard.",
                 "twitter": "",
-                "englishName": ""
+                "englishName": "Bilegt Battumur"
+            },
+            {
+                "name": "Ариунболд Доржсүрэн",
+                "position": "Senior Information Security Analyst at Golomt Bank",
+                "profileImage": "https://storage.googleapis.com/gdgtokyo_img/devfest19/speaker/anonymous_1",
+                "profile": "Experienced Administrator skilled in Network Administration, LaTeX, Linux System Administration, Adobe Photoshop, and Cisco Systems Products. Strong information technology professional graduated from Mongolian University of Science and Technology - Computer Science Management School.",
+                "twitter": "https://twitter.com/katie_hockman",
+                "englishName": "Dorjsuren Ariunbold"
+            },
+            {
+                "name": "Пунцаг Бямбадорж",
+                "position": "Senior Information Security Analyst at Golomt Bank",
+                "profileImage": "https://storage.googleapis.com/gdgtokyo_img/devfest19/speaker/anonymous_1",
+                "profile": "Experienced Administrator skilled in Network Administration, LaTeX, Linux System Administration, Adobe Photoshop, and Cisco Systems Products. Strong information technology professional graduated from Mongolian University of Science and Technology - Computer Science Management School.",
+                "twitter": "https://twitter.com/katie_hockman",
+                "englishName": "Byambadorj Puntsag"
             }
         ],
         "sessions": [
