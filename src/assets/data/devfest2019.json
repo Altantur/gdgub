@@ -6,13 +6,13 @@
         {
             "name": "Google",
             "logo": "/img/devfest2019/kit/google.png",
-            "designation": "gold",
+            "designation": "platinum",
             "link": "https://developers.google.com/"
         },
         {
             "name": "ITZone LLC",
             "logo": "/img/devfest2019/kit/itzone.png",
-            "designation": "platinum",
+            "designation": "gold",
             "link": "https://itzone.mn/"
         },
         {
@@ -78,25 +78,26 @@
             {
                 "name": "Алтантөр",
                 "position": "GDG Ulaanbaatar Organizer, DevRel",
-                "profileImage": "https://s.gravatar.com/avatar/b57e6b87b180cd3ee1079be83bca74f7?s=80",
+                "profileImage": "/img/devfest2019/kit/altantur.jpg",
                 "profile": "GDG DevFest Ulaanbaatar 2019, Organizer of Google Developers Group Ulaanbaatar, Олон стартап үүсгэн байгуулж, тал нь фэйлдсэн юм.",
                 "twitter": "https://twitter.com/altantur",
                 "englishName": "Altantur"
-            },
-            {
-                "name": "岩尾 エマ はるか",
-                "position": "Developer Advocate",
-                "profileImage": "https://storage.googleapis.com/gdgtokyo_img/devfest19/speaker/emma_haruka_iwao",
-                "profile": "組み込みソフトウェア開発者、Site Reliability Engineerなどを経て2015年より現職。現在はGoogleのシアトルオフィスにて、Google Cloud PlatformのDeveloper Advocateとしてアプリケーション開発者に技術の魅力を伝える仕事をしている。大学では高性能計算および分散ファイルシステムを研究し、その経験を元にクラウド環境上での高性能計算を専門にしている。趣味は旅行とゲーム。",
-                "twitter": "https://twitter.com/Yuryu",
-                "englishName": "Emma Haruka Iwao"
             }
         ],
         "guests": [
+	    {
+                "name": "Нямлхагва Билгүүн",
+                "position": "Flutter Developer",
+                "profileImage": "/img/devfest2019/kit/bilguun.jpg",
+                "profile": "Experienced Administrator skilled in Network Administration, LaTeX, Linux System Administration, Adobe Photoshop, and Cisco Systems Products. Strong information technology professional graduated from Mongolian University of Science and Technology - Computer Science Management School.",
+                "twitter": "https://twitter.com/katie_hockman",
+                "englishName": "Bilguun  Nyamlhagva"
+            },
+
             {
                 "name": "Золзаяа Ганбагана",
                 "position": "Senior Information Security Analyst at Golomt Bank",
-                "profileImage": "https://storage.googleapis.com/gdgtokyo_img/devfest19/speaker/anonymous_1",
+                "profileImage": "/img/devfest2019/kit/bagana.jpeg",
                 "profile": "Experienced Administrator skilled in Network Administration, LaTeX, Linux System Administration, Adobe Photoshop, and Cisco Systems Products. Strong information technology professional graduated from Mongolian University of Science and Technology - Computer Science Management School.",
                 "twitter": "https://twitter.com/katie_hockman",
                 "englishName": "Ganbagana Zolzaya"
@@ -104,60 +105,26 @@
             {
                 "name": "Баттөмөр Билэгт",
                 "position": "Lead Developer",
-                "profileImage": "https://storage.googleapis.com/gdgtokyo_img/devfest19/speaker/anonymous_1",
+                "profileImage": "/img/devfest2019/kit/bilegt.png",
                 "profile": "Bilegt Battumur is our lead information architect and back-end engineer. He is a highly experienced full-stack developer with a strong passion for planning and implementing efficient data-rich web applications. His problem-solving mindset and his background in microservices-based systems, cloud services, DevOps and front-end business logic make him an integral part of our team. His past experience includes a role as one of a small team of core developers at NOM (formerly No Ordinary Media), where he worked on coding and developing the platform for contextual targeting of videos on YouTube, branded video content distribution, and custom content targeting on YouTube using data analytics and machine learning to deliver better performance. It's a testament to Billy's contribution that NOM has recently won ThinkLA's Start-Up of the Year Award for innovation. We're sure Billy will continue to help us push boundaries with our vision for the MangoB2B platform! High profile clients and brands Billy has worked with included Toyota, Harley Davidson, Western Union, State Farm, Soylent, New Balance, Callaway, and Blizzard.",
                 "twitter": "",
                 "englishName": "Bilegt Battumur"
             },
             {
                 "name": "Ариунболд Доржсүрэн",
-                "position": "Senior Information Security Analyst at Golomt Bank",
-                "profileImage": "https://storage.googleapis.com/gdgtokyo_img/devfest19/speaker/anonymous_1",
-                "profile": "Experienced Administrator skilled in Network Administration, LaTeX, Linux System Administration, Adobe Photoshop, and Cisco Systems Products. Strong information technology professional graduated from Mongolian University of Science and Technology - Computer Science Management School.",
+                "position": "Senior Developer",
+                "profileImage": "/img/devfest2019/kit/dido.jpg",
+                "profile": "Experienced Senior with a demonstrated history of working in the information technology and services industry. Skilled in PHP, Big Data Analytics, WebGL, Java, and Management. Strong information technology professional with a Bachelor of Computer Science focused in Information Technology from School of Engineering and Applied Sciences, National University of Mongolia.",
                 "twitter": "https://twitter.com/katie_hockman",
                 "englishName": "Dorjsuren Ariunbold"
             },
             {
                 "name": "Пунцаг Бямбадорж",
-                "position": "Senior Information Security Analyst at Golomt Bank",
-                "profileImage": "https://storage.googleapis.com/gdgtokyo_img/devfest19/speaker/anonymous_1",
+                "position": "Master Developer",
+                "profileImage": "/img/devfest2019/kit/byambaa.jpg",
                 "profile": "Experienced Administrator skilled in Network Administration, LaTeX, Linux System Administration, Adobe Photoshop, and Cisco Systems Products. Strong information technology professional graduated from Mongolian University of Science and Technology - Computer Science Management School.",
                 "twitter": "https://twitter.com/katie_hockman",
                 "englishName": "Byambadorj Puntsag"
-            }
-        ],
-        "sessions": [
-            {
-                "name": "Есүхэй Бариш",
-                "position": "Google Developer Ecosystem",
-                "profileImage": "https://storage.googleapis.com/gdgtokyo_img/devfest19/speaker/anonymous_1",
-                "profile": "For over 10 years, he has been endorsing developer platforms to tech ecosystem and advocating for developers' needs.",
-                "twitter": "https://twitter.com/baris_yesugey",
-                "englishName": "Baris Yesugey"
-            },
-            {
-                "name": "Ууганбаярын Наранбаяр",
-                "position": "Google Software Engineer",
-                "profileImage": "https://storage.googleapis.com/gdgtokyo_img/devfest19/speaker/anonymous_1",
-                "profile": "Experienced Software Engineer with a demonstrated history of working in the internet industry ",
-                "twitter": "https://twitter.com/NaranbayarU",
-                "englishName": "Naranbayar Uuganbayar"
-            },
-            {
-                "name": "田中 洋一郎",
-                "position": "Google Developers Expert for Assistant",
-                "profileImage": "https://storage.googleapis.com/gdgtokyo_img/devfest19/speaker/yoichiro_tanaka",
-                "profile": "Google Developers Expert (Assistant, Web Technologies)",
-                "twitter": "https://twitter.com/yoichiro",
-                "englishName": "Yoichiro Tanaka"
-            },
-            {
-                "name": "なかむら さとる",
-                "position": "Google Developers Expert for GCP",
-                "profileImage": "https://storage.googleapis.com/gdgtokyo_img/devfest19/speaker/satoru_nakamura",
-                "profile": "BigQueryで人生が変わった男。\nBigQueryを愛してやまない男。\n普段は前処理とかDWHの構築とかデータを使ったコンサルとかやってます。\nGoogle Developers Expert(GCP)",
-                "twitter": "https://twitter.com/satoluxx",
-                "englishName": "Satoru Nakamura"
             }
         ]
     }
