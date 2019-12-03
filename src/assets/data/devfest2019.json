@@ -77,11 +77,37 @@
         "keynotes": [
             {
                 "name": "Алтантөр",
-                "position": "GDG Ulaanbaatar Organizer, DevRel",
+                "position": "Organizer @ GDG Ulaanbaatar",
                 "profileImage": "/img/devfest2019/kit/altantur.jpg",
-                "profile": "GDG DevFest Ulaanbaatar 2019, Organizer of Google Developers Group Ulaanbaatar, Олон стартап үүсгэн байгуулж, тал нь фэйлдсэн юм.",
+                "profile": "GDG DevFest Ulaanbaatar 2019, Organizer of Google Developers Group Ulaanbaatar.",
                 "twitter": "https://twitter.com/altantur",
                 "englishName": "Altantur"
+            }
+        ],
+        "sessions": [
+            {
+                "name": "Есүхэй Бариш",
+                "position": "Developer Ecosystem Specialist @ Google",
+                "profileImage": "/img/devfest2019/kit/baris.jpg",
+                "profile": "For over 10 years, He've been endorsing developer platforms to tech ecosystem and advocating for developers' needs.",
+                "twitter": "https://twitter.com/baris_yesugey",
+                "englishName": "Baris Yesugei"
+            },
+            {
+                "name": "Ислэ Мэрвэ",
+                "position": "Community Manager @ Google via ITWorks",
+                "profileImage": "/img/devfest2019/kit/merveisler.jpeg",
+                "profile": "Inquisitive and active software developer. She is passionate about start-ups, artificial intelligence, and innovations. She loves attending the conferences and learning about new technologies, also has already organized a variety of local meetups, hackathons, and amazing conferences. She always finds a great pleasure in organizing events for the community and meeting people who share similar interests. Currently, she is working for establishing Developer Student Clubs in Turkey, Central Asia and Caucasus. DSCs are training thousands of student developers ( around 60k+ so far) and working with their communities to solve real-life problems. Aimed to provide students with the resources, opportunities and, experience necessary to be industry ready, all while still pursuing their degrees.",
+                "twitter": "https://twitter.com/merve_isler",
+                "englishName": "Merve Isle"
+            },
+            {
+                "name": "Акансэл Илкэр",
+                "position": "Developer Relations Coordinator @ Google via ITWorks",
+                "profileImage": "/img/devfest2019/kit/ilker.jpeg",
+                "profile": "With undergraduate degree in MIS from Bogazici University and a Master's from Manchester Business School, and experiences in various companies, different countries and business areas, I am a community, project and program manager at heart, with technology, innovation and entrepreneurship as common denominator in all these. A 12-year tenure in Europe, and experiences at likes of London 2012 Olympic Games, Cisco and now at Google, both in Switzerland and Turkey, gave me great opportunities to manage exciting programs and support innovation-oriented energetic communities. I now use these valuable experiences in supporting the Google developer community in Turkey. ",
+                "twitter": "https://twitter.com/baris_yesugey",
+                "englishName": "Ilker Akansel"
             }
         ],
         "guests": [
@@ -96,7 +122,7 @@
 
             {
                 "name": "Золзаяа Ганбагана",
-                "position": "Senior Information Security Analyst at Golomt Bank",
+                "position": "Senior Information Security Analyst @ Golomt Bank",
                 "profileImage": "/img/devfest2019/kit/bagana.jpeg",
                 "profile": "Experienced Administrator skilled in Network Administration, LaTeX, Linux System Administration, Adobe Photoshop, and Cisco Systems Products. Strong information technology professional graduated from Mongolian University of Science and Technology - Computer Science Management School.",
                 "twitter": "https://twitter.com/katie_hockman",
@@ -104,7 +130,7 @@
             },
             {
                 "name": "Баттөмөр Билэгт",
-                "position": "Lead Developer",
+                "position": "Lead Developer @ MangoB2B",
                 "profileImage": "/img/devfest2019/kit/bilegt.png",
                 "profile": "Bilegt Battumur is our lead information architect and back-end engineer. He is a highly experienced full-stack developer with a strong passion for planning and implementing efficient data-rich web applications. His problem-solving mindset and his background in microservices-based systems, cloud services, DevOps and front-end business logic make him an integral part of our team. His past experience includes a role as one of a small team of core developers at NOM (formerly No Ordinary Media), where he worked on coding and developing the platform for contextual targeting of videos on YouTube, branded video content distribution, and custom content targeting on YouTube using data analytics and machine learning to deliver better performance. It's a testament to Billy's contribution that NOM has recently won ThinkLA's Start-Up of the Year Award for innovation. We're sure Billy will continue to help us push boundaries with our vision for the MangoB2B platform! High profile clients and brands Billy has worked with included Toyota, Harley Davidson, Western Union, State Farm, Soylent, New Balance, Callaway, and Blizzard.",
                 "twitter": "",
@@ -112,19 +138,27 @@
             },
             {
                 "name": "Ариунболд Доржсүрэн",
-                "position": "Senior Developer",
+                "position": "Senior Developer @ ITZone",
                 "profileImage": "/img/devfest2019/kit/dido.jpg",
                 "profile": "Experienced Senior with a demonstrated history of working in the information technology and services industry. Skilled in PHP, Big Data Analytics, WebGL, Java, and Management. Strong information technology professional with a Bachelor of Computer Science focused in Information Technology from School of Engineering and Applied Sciences, National University of Mongolia.",
-                "twitter": "https://twitter.com/katie_hockman",
+                "twitter": "https://twitter.com/dorjsurenari",
                 "englishName": "Dorjsuren Ariunbold"
             },
             {
                 "name": "Пунцаг Бямбадорж",
-                "position": "Master Developer",
+                "position": "Master Developer @ Nest Academy",
                 "profileImage": "/img/devfest2019/kit/byambaa.jpg",
                 "profile": "Experienced Administrator skilled in Network Administration, LaTeX, Linux System Administration, Adobe Photoshop, and Cisco Systems Products. Strong information technology professional graduated from Mongolian University of Science and Technology - Computer Science Management School.",
-                "twitter": "https://twitter.com/katie_hockman",
+                "twitter": "https://twitter.com/byambadorjp",
                 "englishName": "Byambadorj Puntsag"
+            },
+            {
+                "name": "Гантөмөр Золбообаяр",
+                "position": "Student @  Nest Education high school",
+                "profileImage": "/img/devfest2019/kit/zolboo.jpg",
+                "profile": "Made projects on Node.JS, Golang, Javascript(React, VueJS). Mastering ReactJS with hooks, waiting for Suspense for data fetching <3.",
+                "twitter": "https://twitter.com/zolboo_olega",
+                "englishName": "Zolboobayar Gantumur"
             }
         ]
     }
