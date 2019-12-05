@@ -39,12 +39,12 @@
           class="google-font"
           style="font-size:200%; font-weight: bold; color: #fabb01;"
         >Яриа</p>
-        <p class="google-font" style="font-size:150%;">2019.12.14</p>
+        <p class="google-font" style="font-size:150%;">2019.12.15</p>
       </v-flex>
       <v-flex xs7 sm7 md7 lg7 class="pa-2 text-xs-left">
-        <p style="font-size:130%; font-weight: bold; color: #537dbf;">Sessions, Codelab</p>
+        <p style="font-size:130%; font-weight: bold; color: #537dbf;">Sessions, Live Hangouts</p>
         <p class="google-font">
-          11:00 18:00
+          10:00 〜 15:00
           <br />
         </p>
         <p class="google-font">
@@ -61,10 +61,10 @@
           class="google-font"
           style="font-size:200%; font-weight: bold; color: #fabb01;"
         >Хийж үзэх</p>
-        <p class="google-font" style="font-size:150%;">2019.12.14</p>
+        <p class="google-font" style="font-size:150%;">2019.12.15</p>
       </v-flex>
       <v-flex xs7 sm7 md7 lg7 class="pa-2 text-xs-left">
-        <p style="font-size:130%; font-weight: bold; color: #34a851;">Special Hands-on, Live Hangout</p>
+        <p style="font-size:130%; font-weight: bold; color: #34a851;">Special Hands-on</p>
         <p class="google-font">
           14:00 〜 17:00
           <br />
